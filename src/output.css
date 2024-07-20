@@ -586,9 +586,9 @@ video {
   }
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 1320px) {
   .container {
-    max-width: 1440px;
+    max-width: 1320px;
   }
 }
 
